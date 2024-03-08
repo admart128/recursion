@@ -1,1 +1,3 @@
-# recursion
+🔰 Practice
+
+Early algorthims practice.
